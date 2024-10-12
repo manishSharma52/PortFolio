@@ -19,7 +19,7 @@ function About() {
             <img className="rounded-2xl" 
             // src="src/about.jpg"
             src="https://github.com/kushald/react-portfolio-assets-kevin/blob/main/assets/about.jpg?raw=true"
-             alt="about" />
+             alt="about"/>
           </div>
           
         </motion.div>
