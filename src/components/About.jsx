@@ -18,7 +18,7 @@ function About() {
           <div className="flex items-center justify-center">
             <img className="rounded-2xl" 
             // src="src/about.jpg"
-            src="https://github.com/kushald/react-portfolio-assets-kevin/blob/main/assets/kevinRushProfile.jpg?raw=true"
+            src="https://github.com/kushald/react-portfolio-assets-kevin/blob/main/assets/about.jpg?raw=true"
              alt="about" />
           </div>
           
