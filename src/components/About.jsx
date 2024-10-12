@@ -16,7 +16,10 @@ function About() {
         transition={{duration:0.5}}
         className="w-full lg:w-1/2 lg:p-8 ">
           <div className="flex items-center justify-center">
-            <img className="rounded-2xl" src="src/about.jpg" alt="about" />
+            <img className="rounded-2xl" 
+            // src="src/about.jpg"
+            src="https://github.com/kushald/react-portfolio-assets-kevin/blob/main/assets/kevinRushProfile.jpg?raw=true"
+             alt="about" />
           </div>
           
         </motion.div>

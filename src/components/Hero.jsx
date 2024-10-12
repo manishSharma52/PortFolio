@@ -56,7 +56,10 @@ const Hero = () => {
             initial={{x:100, opacity:0}}
             animate={{x:0, opacity:1}}
             transition={{duration:1, delay:1.2}}
-            src="src/manishProfile.jpg" alt="Manish Sharma" />
+            // src="src/manishProfile.jpg" 
+            src="https://github.com/kushald/react-portfolio-assets-kevin/blob/main/assets/kevinRushProfile.jpg?raw=true" 
+
+            alt="Manish Sharma" />
           </div>
         </div>
       </div>
